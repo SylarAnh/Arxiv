@@ -8,7 +8,7 @@ let conferences = [
     // AI
     "AAAI", "AAMAS", "ACM MM", "AISTATS", "ALT", "CEC", "ECAI", "FUZZ IEEE", "GECCO", "ICANN", "ICAPS", "ICCBR", "ICONIP", "ICRA", "ICTAI", "IJCAI", "IJCNN", "IROS", "KR", "KSEM", "SIGGRAPH", "STOC", "UAI", "PPSN", "PRICAI", "TAAI",
     // RO
-    "IROS", "ICRA", "SSR"
+    "IROS", "ICRA", "T-RO", "IJRR", "SSR"
 ];
 
 let start = conferences.shift();
